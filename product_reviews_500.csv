@@ -1,0 +1,501 @@
+Review_ID,Review,Sentiment
+R001,The product is fair,Neutral
+R002,Quality is regular for the price,Neutral
+R003,The product is great and useful,Positive
+R004,The product is good and useful,Positive
+R005,hate product and poor service,Negative
+R006,The product is perfect and useful,Positive
+R007,Absolutely good experience,Positive
+R008,Delivery was acceptable,Neutral
+R009,The product is wonderful and useful,Positive
+R010,The product is fine,Neutral
+R011,I am love with this purchase,Positive
+R012,The product is good and useful,Positive
+R013,The product is poor and disappointing,Negative
+R014,love product and excellent service,Positive
+R015,Absolutely wonderful experience,Positive
+R016,Very slow experience,Negative
+R017,The product is normal,Neutral
+R018,I am good with this purchase,Positive
+R019,Delivery was average,Neutral
+R020,useless product and poor service,Negative
+R021,The product is happy and useful,Positive
+R022,Absolutely great experience,Positive
+R023,Quality is acceptable for the price,Neutral
+R024,I am worst with this purchase,Negative
+R025,terrible quality and slow delivery,Negative
+R026,Overall an fair experience,Neutral
+R027,The product is acceptable,Neutral
+R028,bad quality and slow delivery,Negative
+R029,The product is awful and disappointing,Negative
+R030,poor product and poor service,Negative
+R031,I am happy with this purchase,Positive
+R032,The product is awful and disappointing,Negative
+R033,Absolutely amazing experience,Positive
+R034,Really excellent quality and fast delivery,Positive
+R035,fantastic product and excellent service,Positive
+R036,The product is bad and disappointing,Negative
+R037,Absolutely happy experience,Positive
+R038,Delivery was decent,Neutral
+R039,It is a okay product,Neutral
+R040,The product is excellent and useful,Positive
+R041,Very broken experience,Negative
+R042,great product and excellent service,Positive
+R043,terrible quality and slow delivery,Negative
+R044,Overall an decent experience,Neutral
+R045,Really love quality and fast delivery,Positive
+R046,I am broken with this purchase,Negative
+R047,It is a average product,Neutral
+R048,It is a normal product,Neutral
+R049,useless product and poor service,Negative
+R050,I am good with this purchase,Positive
+R051,amazing product and excellent service,Positive
+R052,The product is fine,Neutral
+R053,Delivery was fair,Neutral
+R054,bad quality and slow delivery,Negative
+R055,The product is perfect and useful,Positive
+R056,Absolutely excellent experience,Positive
+R057,I am fantastic with this purchase,Positive
+R058,hate quality and slow delivery,Negative
+R059,disappointing quality and slow delivery,Negative
+R060,The product is perfect and useful,Positive
+R061,I am satisfied with this purchase,Positive
+R062,I am satisfied with this purchase,Positive
+R063,Really perfect quality and fast delivery,Positive
+R064,fantastic product and excellent service,Positive
+R065,worst product and poor service,Negative
+R066,I am broken with this purchase,Negative
+R067,Absolutely great experience,Positive
+R068,fantastic product and excellent service,Positive
+R069,hate quality and slow delivery,Negative
+R070,The product is decent,Neutral
+R071,Overall an okay experience,Neutral
+R072,happy product and excellent service,Positive
+R073,The product is okay,Neutral
+R074,Delivery was acceptable,Neutral
+R075,bad quality and slow delivery,Negative
+R076,The product is fine,Neutral
+R077,Really amazing quality and fast delivery,Positive
+R078,wonderful product and excellent service,Positive
+R079,I am love with this purchase,Positive
+R080,wonderful product and excellent service,Positive
+R081,Overall an acceptable experience,Neutral
+R082,It is a average product,Neutral
+R083,The product is excellent and useful,Positive
+R084,bad quality and slow delivery,Negative
+R085,excellent product and excellent service,Positive
+R086,The product is wonderful and useful,Positive
+R087,Delivery was regular,Neutral
+R088,I am hate with this purchase,Negative
+R089,terrible product and poor service,Negative
+R090,Overall an fair experience,Neutral
+R091,Really excellent quality and fast delivery,Positive
+R092,Overall an fair experience,Neutral
+R093,awful product and poor service,Negative
+R094,satisfied product and excellent service,Positive
+R095,I am poor with this purchase,Negative
+R096,I am happy with this purchase,Positive
+R097,fantastic product and excellent service,Positive
+R098,disappointing quality and slow delivery,Negative
+R099,Very broken experience,Negative
+R100,hate product and poor service,Negative
+R101,Absolutely happy experience,Positive
+R102,It is a normal product,Neutral
+R103,Delivery was fair,Neutral
+R104,Quality is satisfactory for the price,Neutral
+R105,great product and excellent service,Positive
+R106,satisfied product and excellent service,Positive
+R107,The product is amazing and useful,Positive
+R108,Quality is moderate for the price,Neutral
+R109,The product is wonderful and useful,Positive
+R110,fantastic product and excellent service,Positive
+R111,I am excellent with this purchase,Positive
+R112,Absolutely happy experience,Positive
+R113,Delivery was fine,Neutral
+R114,Absolutely perfect experience,Positive
+R115,disappointing product and poor service,Negative
+R116,The product is terrible and disappointing,Negative
+R117,great product and excellent service,Positive
+R118,terrible product and poor service,Negative
+R119,excellent product and excellent service,Positive
+R120,Overall an fine experience,Neutral
+R121,I am perfect with this purchase,Positive
+R122,Quality is moderate for the price,Neutral
+R123,Overall an fair experience,Neutral
+R124,Really wonderful quality and fast delivery,Positive
+R125,Absolutely great experience,Positive
+R126,Quality is normal for the price,Neutral
+R127,Quality is decent for the price,Neutral
+R128,Really satisfied quality and fast delivery,Positive
+R129,Absolutely great experience,Positive
+R130,I am wonderful with this purchase,Positive
+R131,poor product and poor service,Negative
+R132,The product is amazing and useful,Positive
+R133,Really excellent quality and fast delivery,Positive
+R134,I am excellent with this purchase,Positive
+R135,The product is satisfied and useful,Positive
+R136,The product is normal,Neutral
+R137,Quality is normal for the price,Neutral
+R138,slow quality and slow delivery,Negative
+R139,I am hate with this purchase,Negative
+R140,The product is disappointing and disappointing,Negative
+R141,satisfied product and excellent service,Positive
+R142,disappointing product and poor service,Negative
+R143,amazing product and excellent service,Positive
+R144,The product is wonderful and useful,Positive
+R145,The product is poor and disappointing,Negative
+R146,Really amazing quality and fast delivery,Positive
+R147,The product is fantastic and useful,Positive
+R148,The product is hate and disappointing,Negative
+R149,I am bad with this purchase,Negative
+R150,Quality is moderate for the price,Neutral
+R151,poor product and poor service,Negative
+R152,Overall an acceptable experience,Neutral
+R153,Absolutely wonderful experience,Positive
+R154,terrible product and poor service,Negative
+R155,great product and excellent service,Positive
+R156,terrible product and poor service,Negative
+R157,It is a satisfactory product,Neutral
+R158,broken quality and slow delivery,Negative
+R159,love product and excellent service,Positive
+R160,awful product and poor service,Negative
+R161,I am perfect with this purchase,Positive
+R162,Really satisfied quality and fast delivery,Positive
+R163,I am poor with this purchase,Negative
+R164,I am worst with this purchase,Negative
+R165,Absolutely excellent experience,Positive
+R166,Very hate experience,Negative
+R167,Overall an acceptable experience,Neutral
+R168,I am excellent with this purchase,Positive
+R169,I am amazing with this purchase,Positive
+R170,I am hate with this purchase,Negative
+R171,Really satisfied quality and fast delivery,Positive
+R172,Absolutely perfect experience,Positive
+R173,amazing product and excellent service,Positive
+R174,disappointing quality and slow delivery,Negative
+R175,Quality is average for the price,Neutral
+R176,Overall an normal experience,Neutral
+R177,happy product and excellent service,Positive
+R178,I am excellent with this purchase,Positive
+R179,Very worst experience,Negative
+R180,The product is useless and disappointing,Negative
+R181,poor quality and slow delivery,Negative
+R182,I am amazing with this purchase,Positive
+R183,The product is awful and disappointing,Negative
+R184,I am fantastic with this purchase,Positive
+R185,terrible quality and slow delivery,Negative
+R186,Really good quality and fast delivery,Positive
+R187,The product is decent,Neutral
+R188,The product is okay,Neutral
+R189,The product is broken and disappointing,Negative
+R190,Absolutely fantastic experience,Positive
+R191,I am worst with this purchase,Negative
+R192,Absolutely amazing experience,Positive
+R193,Quality is regular for the price,Neutral
+R194,The product is happy and useful,Positive
+R195,I am useless with this purchase,Negative
+R196,I am amazing with this purchase,Positive
+R197,The product is good and useful,Positive
+R198,The product is regular,Neutral
+R199,I am awful with this purchase,Negative
+R200,perfect product and excellent service,Positive
+R201,disappointing quality and slow delivery,Negative
+R202,Absolutely happy experience,Positive
+R203,I am disappointing with this purchase,Negative
+R204,It is a satisfactory product,Neutral
+R205,Very terrible experience,Negative
+R206,broken product and poor service,Negative
+R207,useless product and poor service,Negative
+R208,hate product and poor service,Negative
+R209,I am fantastic with this purchase,Positive
+R210,bad quality and slow delivery,Negative
+R211,Absolutely excellent experience,Positive
+R212,Overall an acceptable experience,Neutral
+R213,The product is poor and disappointing,Negative
+R214,Really good quality and fast delivery,Positive
+R215,Absolutely wonderful experience,Positive
+R216,It is a acceptable product,Neutral
+R217,The product is poor and disappointing,Negative
+R218,Overall an acceptable experience,Neutral
+R219,Really amazing quality and fast delivery,Positive
+R220,I am love with this purchase,Positive
+R221,Really happy quality and fast delivery,Positive
+R222,perfect product and excellent service,Positive
+R223,I am wonderful with this purchase,Positive
+R224,Overall an average experience,Neutral
+R225,slow quality and slow delivery,Negative
+R226,Absolutely satisfied experience,Positive
+R227,The product is awful and disappointing,Negative
+R228,excellent product and excellent service,Positive
+R229,Delivery was regular,Neutral
+R230,It is a average product,Neutral
+R231,The product is excellent and useful,Positive
+R232,disappointing quality and slow delivery,Negative
+R233,I am good with this purchase,Positive
+R234,Delivery was okay,Neutral
+R235,Very terrible experience,Negative
+R236,Absolutely perfect experience,Positive
+R237,Really happy quality and fast delivery,Positive
+R238,The product is disappointing and disappointing,Negative
+R239,The product is slow and disappointing,Negative
+R240,It is a acceptable product,Neutral
+R241,Quality is fine for the price,Neutral
+R242,The product is good and useful,Positive
+R243,Quality is moderate for the price,Neutral
+R244,poor quality and slow delivery,Negative
+R245,terrible quality and slow delivery,Negative
+R246,Really fantastic quality and fast delivery,Positive
+R247,useless product and poor service,Negative
+R248,Delivery was decent,Neutral
+R249,Absolutely happy experience,Positive
+R250,broken quality and slow delivery,Negative
+R251,Absolutely love experience,Positive
+R252,Really satisfied quality and fast delivery,Positive
+R253,The product is fantastic and useful,Positive
+R254,The product is bad and disappointing,Negative
+R255,I am disappointing with this purchase,Negative
+R256,Very disappointing experience,Negative
+R257,Delivery was regular,Neutral
+R258,It is a fine product,Neutral
+R259,Delivery was satisfactory,Neutral
+R260,awful product and poor service,Negative
+R261,awful quality and slow delivery,Negative
+R262,I am slow with this purchase,Negative
+R263,I am happy with this purchase,Positive
+R264,The product is useless and disappointing,Negative
+R265,satisfied product and excellent service,Positive
+R266,Quality is moderate for the price,Neutral
+R267,satisfied product and excellent service,Positive
+R268,bad product and poor service,Negative
+R269,worst quality and slow delivery,Negative
+R270,Really perfect quality and fast delivery,Positive
+R271,I am great with this purchase,Positive
+R272,Quality is fair for the price,Neutral
+R273,Overall an acceptable experience,Neutral
+R274,Really fantastic quality and fast delivery,Positive
+R275,I am useless with this purchase,Negative
+R276,Absolutely great experience,Positive
+R277,Quality is regular for the price,Neutral
+R278,Really amazing quality and fast delivery,Positive
+R279,The product is excellent and useful,Positive
+R280,I am hate with this purchase,Negative
+R281,The product is disappointing and disappointing,Negative
+R282,The product is slow and disappointing,Negative
+R283,The product is satisfactory,Neutral
+R284,It is a normal product,Neutral
+R285,Quality is okay for the price,Neutral
+R286,Overall an fine experience,Neutral
+R287,The product is moderate,Neutral
+R288,Really wonderful quality and fast delivery,Positive
+R289,I am happy with this purchase,Positive
+R290,Overall an acceptable experience,Neutral
+R291,poor product and poor service,Negative
+R292,Delivery was regular,Neutral
+R293,The product is happy and useful,Positive
+R294,It is a satisfactory product,Neutral
+R295,Really amazing quality and fast delivery,Positive
+R296,Overall an normal experience,Neutral
+R297,Overall an okay experience,Neutral
+R298,The product is acceptable,Neutral
+R299,Absolutely love experience,Positive
+R300,It is a fair product,Neutral
+R301,Quality is fine for the price,Neutral
+R302,great product and excellent service,Positive
+R303,Very useless experience,Negative
+R304,The product is fair,Neutral
+R305,I am great with this purchase,Positive
+R306,I am great with this purchase,Positive
+R307,Very terrible experience,Negative
+R308,I am bad with this purchase,Negative
+R309,hate quality and slow delivery,Negative
+R310,good product and excellent service,Positive
+R311,Absolutely great experience,Positive
+R312,Very worst experience,Negative
+R313,I am poor with this purchase,Negative
+R314,The product is terrible and disappointing,Negative
+R315,Delivery was fine,Neutral
+R316,poor product and poor service,Negative
+R317,Absolutely perfect experience,Positive
+R318,The product is broken and disappointing,Negative
+R319,terrible product and poor service,Negative
+R320,Overall an okay experience,Neutral
+R321,Quality is decent for the price,Neutral
+R322,perfect product and excellent service,Positive
+R323,The product is regular,Neutral
+R324,The product is fantastic and useful,Positive
+R325,I am great with this purchase,Positive
+R326,Absolutely love experience,Positive
+R327,I am satisfied with this purchase,Positive
+R328,I am happy with this purchase,Positive
+R329,wonderful product and excellent service,Positive
+R330,Really wonderful quality and fast delivery,Positive
+R331,The product is decent,Neutral
+R332,Absolutely satisfied experience,Positive
+R333,Delivery was fine,Neutral
+R334,Really great quality and fast delivery,Positive
+R335,good product and excellent service,Positive
+R336,Really amazing quality and fast delivery,Positive
+R337,The product is wonderful and useful,Positive
+R338,I am excellent with this purchase,Positive
+R339,It is a fair product,Neutral
+R340,Really satisfied quality and fast delivery,Positive
+R341,wonderful product and excellent service,Positive
+R342,bad product and poor service,Negative
+R343,Really perfect quality and fast delivery,Positive
+R344,perfect product and excellent service,Positive
+R345,Absolutely good experience,Positive
+R346,Very terrible experience,Negative
+R347,The product is great and useful,Positive
+R348,Really perfect quality and fast delivery,Positive
+R349,Quality is moderate for the price,Neutral
+R350,happy product and excellent service,Positive
+R351,Really excellent quality and fast delivery,Positive
+R352,Overall an okay experience,Neutral
+R353,useless quality and slow delivery,Negative
+R354,excellent product and excellent service,Positive
+R355,The product is great and useful,Positive
+R356,The product is wonderful and useful,Positive
+R357,Delivery was average,Neutral
+R358,Delivery was decent,Neutral
+R359,It is a satisfactory product,Neutral
+R360,I am disappointing with this purchase,Negative
+R361,Quality is decent for the price,Neutral
+R362,The product is hate and disappointing,Negative
+R363,Quality is average for the price,Neutral
+R364,Delivery was fair,Neutral
+R365,Overall an regular experience,Neutral
+R366,poor quality and slow delivery,Negative
+R367,It is a fine product,Neutral
+R368,The product is slow and disappointing,Negative
+R369,Absolutely perfect experience,Positive
+R370,The product is love and useful,Positive
+R371,Quality is fair for the price,Neutral
+R372,love product and excellent service,Positive
+R373,Quality is satisfactory for the price,Neutral
+R374,The product is amazing and useful,Positive
+R375,Absolutely wonderful experience,Positive
+R376,I am happy with this purchase,Positive
+R377,Really perfect quality and fast delivery,Positive
+R378,poor quality and slow delivery,Negative
+R379,Very terrible experience,Negative
+R380,I am great with this purchase,Positive
+R381,The product is fine,Neutral
+R382,Overall an acceptable experience,Neutral
+R383,I am good with this purchase,Positive
+R384,The product is love and useful,Positive
+R385,Very worst experience,Negative
+R386,worst quality and slow delivery,Negative
+R387,It is a normal product,Neutral
+R388,I am slow with this purchase,Negative
+R389,Quality is normal for the price,Neutral
+R390,slow product and poor service,Negative
+R391,It is a average product,Neutral
+R392,Absolutely love experience,Positive
+R393,Overall an acceptable experience,Neutral
+R394,I am slow with this purchase,Negative
+R395,The product is decent,Neutral
+R396,The product is fantastic and useful,Positive
+R397,I am fantastic with this purchase,Positive
+R398,wonderful product and excellent service,Positive
+R399,poor quality and slow delivery,Negative
+R400,disappointing quality and slow delivery,Negative
+R401,I am excellent with this purchase,Positive
+R402,I am great with this purchase,Positive
+R403,happy product and excellent service,Positive
+R404,excellent product and excellent service,Positive
+R405,broken quality and slow delivery,Negative
+R406,Delivery was fine,Neutral
+R407,awful product and poor service,Negative
+R408,worst product and poor service,Negative
+R409,I am good with this purchase,Positive
+R410,I am excellent with this purchase,Positive
+R411,I am awful with this purchase,Negative
+R412,Delivery was acceptable,Neutral
+R413,hate product and poor service,Negative
+R414,The product is terrible and disappointing,Negative
+R415,I am amazing with this purchase,Positive
+R416,Delivery was regular,Neutral
+R417,disappointing quality and slow delivery,Negative
+R418,Really happy quality and fast delivery,Positive
+R419,Really excellent quality and fast delivery,Positive
+R420,useless product and poor service,Negative
+R421,Overall an acceptable experience,Neutral
+R422,awful quality and slow delivery,Negative
+R423,bad quality and slow delivery,Negative
+R424,Quality is satisfactory for the price,Neutral
+R425,slow quality and slow delivery,Negative
+R426,I am excellent with this purchase,Positive
+R427,I am happy with this purchase,Positive
+R428,I am wonderful with this purchase,Positive
+R429,Very worst experience,Negative
+R430,Quality is average for the price,Neutral
+R431,disappointing product and poor service,Negative
+R432,awful product and poor service,Negative
+R433,Very bad experience,Negative
+R434,Overall an decent experience,Neutral
+R435,Very bad experience,Negative
+R436,The product is slow and disappointing,Negative
+R437,I am wonderful with this purchase,Positive
+R438,wonderful product and excellent service,Positive
+R439,Quality is regular for the price,Neutral
+R440,Absolutely amazing experience,Positive
+R441,Really wonderful quality and fast delivery,Positive
+R442,I am hate with this purchase,Negative
+R443,The product is awful and disappointing,Negative
+R444,The product is fine,Neutral
+R445,It is a okay product,Neutral
+R446,Overall an acceptable experience,Neutral
+R447,The product is wonderful and useful,Positive
+R448,The product is broken and disappointing,Negative
+R449,Delivery was moderate,Neutral
+R450,Really excellent quality and fast delivery,Positive
+R451,happy product and excellent service,Positive
+R452,Absolutely perfect experience,Positive
+R453,The product is worst and disappointing,Negative
+R454,The product is happy and useful,Positive
+R455,It is a acceptable product,Neutral
+R456,I am slow with this purchase,Negative
+R457,The product is bad and disappointing,Negative
+R458,Overall an fine experience,Neutral
+R459,I am amazing with this purchase,Positive
+R460,The product is useless and disappointing,Negative
+R461,The product is broken and disappointing,Negative
+R462,Absolutely wonderful experience,Positive
+R463,Absolutely great experience,Positive
+R464,Really good quality and fast delivery,Positive
+R465,I am broken with this purchase,Negative
+R466,Absolutely excellent experience,Positive
+R467,The product is broken and disappointing,Negative
+R468,broken product and poor service,Negative
+R469,Very bad experience,Negative
+R470,The product is great and useful,Positive
+R471,broken product and poor service,Negative
+R472,satisfied product and excellent service,Positive
+R473,The product is good and useful,Positive
+R474,Absolutely great experience,Positive
+R475,perfect product and excellent service,Positive
+R476,Overall an satisfactory experience,Neutral
+R477,Absolutely good experience,Positive
+R478,Delivery was fair,Neutral
+R479,Really excellent quality and fast delivery,Positive
+R480,It is a average product,Neutral
+R481,I am excellent with this purchase,Positive
+R482,happy product and excellent service,Positive
+R483,Very useless experience,Negative
+R484,good product and excellent service,Positive
+R485,slow product and poor service,Negative
+R486,excellent product and excellent service,Positive
+R487,The product is decent,Neutral
+R488,broken product and poor service,Negative
+R489,I am fantastic with this purchase,Positive
+R490,fantastic product and excellent service,Positive
+R491,useless quality and slow delivery,Negative
+R492,Really happy quality and fast delivery,Positive
+R493,Very worst experience,Negative
+R494,great product and excellent service,Positive
+R495,Really amazing quality and fast delivery,Positive
+R496,It is a acceptable product,Neutral
+R497,Quality is decent for the price,Neutral
+R498,I am wonderful with this purchase,Positive
+R499,great product and excellent service,Positive
+R500,Really wonderful quality and fast delivery,Positive
